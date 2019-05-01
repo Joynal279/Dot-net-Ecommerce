@@ -1,0 +1,12 @@
+F:\JOHN DARK_02\Dot net Core MVC eCommerce Faisal vai\ECommerce Project\OnlineShop\OnlineShop\bin\Debug\netcoreapp2.0\OnlineShop.deps.json
+F:\JOHN DARK_02\Dot net Core MVC eCommerce Faisal vai\ECommerce Project\OnlineShop\OnlineShop\bin\Debug\netcoreapp2.0\OnlineShop.runtimeconfig.json
+F:\JOHN DARK_02\Dot net Core MVC eCommerce Faisal vai\ECommerce Project\OnlineShop\OnlineShop\bin\Debug\netcoreapp2.0\OnlineShop.runtimeconfig.dev.json
+F:\JOHN DARK_02\Dot net Core MVC eCommerce Faisal vai\ECommerce Project\OnlineShop\OnlineShop\bin\Debug\netcoreapp2.0\OnlineShop.dll
+F:\JOHN DARK_02\Dot net Core MVC eCommerce Faisal vai\ECommerce Project\OnlineShop\OnlineShop\bin\Debug\netcoreapp2.0\OnlineShop.pdb
+F:\JOHN DARK_02\Dot net Core MVC eCommerce Faisal vai\ECommerce Project\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.0\OnlineShop.csprojAssemblyReference.cache
+F:\JOHN DARK_02\Dot net Core MVC eCommerce Faisal vai\ECommerce Project\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.0\OnlineShop.csproj.CoreCompileInputs.cache
+F:\JOHN DARK_02\Dot net Core MVC eCommerce Faisal vai\ECommerce Project\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+F:\JOHN DARK_02\Dot net Core MVC eCommerce Faisal vai\ECommerce Project\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.0\OnlineShop.AssemblyInfoInputs.cache
+F:\JOHN DARK_02\Dot net Core MVC eCommerce Faisal vai\ECommerce Project\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.0\OnlineShop.AssemblyInfo.cs
+F:\JOHN DARK_02\Dot net Core MVC eCommerce Faisal vai\ECommerce Project\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.0\OnlineShop.dll
+F:\JOHN DARK_02\Dot net Core MVC eCommerce Faisal vai\ECommerce Project\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.0\OnlineShop.pdb
