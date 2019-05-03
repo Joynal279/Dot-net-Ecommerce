@@ -1,0 +1,16 @@
+﻿@model OnlineShop.Models.Register
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h2 class="text-info">Create Product Type</h2>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <input asp-for="EmailName" class="form-control col-lg-5"/>
+        <input type="submit"class="btn btn-primary"  value="Save" />
+        <a asp-action="Index" class="btn btn-success">Back To List</a>
+    </div>
+
+</form>
+

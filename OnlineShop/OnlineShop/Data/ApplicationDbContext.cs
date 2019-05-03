@@ -16,6 +16,7 @@ namespace OnlineShop.Data
         }
 
         public DbSet<ProductTypes> ProductTypes { get; set; }
+        public DbSet<Register> registers { get; set; }
 
         protected override void OnModelCreating(ModelBuilder builder)
         {

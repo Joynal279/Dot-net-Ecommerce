@@ -1,0 +1,23 @@
+﻿@model IEnumerable<OnlineShop.Models.Register>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+<div class="row">
+    <div class="col-lg-6">
+        <h2 class="text-info">Product Type List</h2>
+    </div>
+    <div class="col-lg-6 text-right">
+        <a asp-action="Create" class="btn btn-primary">&nbsp; New Product Type</a>
+    </div>
+
+</div>
+@Html.DisplayNameFor(expression:c=>c.EmailName)
+
+@foreach(var item in Model)
+{
+    <h3>@item.EmailName</h3>
+
+}
+
